@@ -27,4 +27,6 @@ This workshop intents to train folks about Machine learning concepts with global
     install.packages("")
     
 ###Note
-if you are interesting in installing your Jupyter. You can use the text files in R_code
+if you are not interesting in installing your Jupyter. You can use the text files in R_code
+
+Please let me know if you have any queries
